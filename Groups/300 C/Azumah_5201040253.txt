@@ -1,0 +1,36 @@
+1.A software process model is an abstract representation of the development process. The model specify the order and stagesof a process
+The software process model is important because it provide guidance for controlling and coordinating the task to achieve the end product as effectively as possible. This help both the team and the costomer
+and the customer to determine thr right process or steps to follow for a particular software,identify early challenges and act as a record of the team's development process for the future
+
+2. The waterfall software process model breaks down software development into isolated phases
+and flow into each other whrere as Agile software process model advocate iterative
+development cycles in which multiple life cycle phases can run in parallel.The benefit if the waterfall software 
+process model is that it is simple and easy to understand and use. It is easy to manage due to the ragidity of the model
+And when we take a look at the agile software process model, it makes the managers' job easier and allows them to have
+much or greater control over their project. It again focusnon bothe delivering quality and value to the customer and completing 
+the project within the given project constraint.
+
+3.Rational unified process ia an approach for software engineering for delegating activities and responsibilities inside a software 
+development organization. Its basic purpose is to enable the creation of high quality software that satisfy the end user's requirement
+within a predictable budget and timeframe.The system is delivered in iteration where the iterations are succcessive
+series of releases each with an increasing level of completetness.
+The phases include in this type of software development process are
+i. Inception
+ii. Elaboration
+iii. Constuction
+iv. Transition
+During each phase, all the six coren development disciplines take place. ie, bussiness modelling
+,requirement, Analysis and design, Implementation, testing and deployment.
+
+
+BENEFIT OF USING THE RATIONAL UNIFIED PROCESS 
+i. It allows you to deal with changing requirements regardless of whether
+they are comming from the customer or from the project itself.
+
+ii. It forces integration to happen throughout the software development,more
+specifically in the construction phases.
+
+iii. The Rational unified process allow developers to control the development process 
+satisfactory and give users a high level of security, proponents say.
+
+Iv. It is again an iterative approach that is better in some situations than a pure waterfall approach.
